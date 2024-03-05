@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hey there 👋, Saran here !
 
 A AI student, dabbling around Machine Learning and web development. I love taking my time to customize my experience aesthetically while being functional.
 
 * 🌍  I'm based in Trichy, India
 * ✉️  You can contact me at [saran332003@gmail.com](mailto:saran332003@gmail.com)
+
+---
 <!--
 **Jackdrakes/Jackdrakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
