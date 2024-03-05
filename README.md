@@ -16,6 +16,9 @@ An AI student, dabbling around Machine Learning and web development. I love taki
 [![My Skills](https://skillicons.dev/icons?i=git,github,&theme=dark)](https://skillicons.dev)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackdrakes&layout=compact&theme=github_dark)]()
+
+
 <!--
 **Jackdrakes/Jackdrakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
