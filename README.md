@@ -1,6 +1,6 @@
 ## Hey there 👋, Saran here !
 
-An AI student, dabbling around Machine Learning and web development. I love taking my time to customize my experience aesthetically while being functional.
+An AI/ML Engineer, dabbling around Machine Learning, NLP and web development. I love taking my time to customize my experience aesthetically while being functional.
 
 * 🌍  I'm based in Trichy, India.
 * ✉️  You can contact me at [saran332003@gmail.com](mailto:saran332003@gmail.com)
