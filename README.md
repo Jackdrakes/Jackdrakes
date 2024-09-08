@@ -13,7 +13,7 @@ An AI/ML Engineer, dabbling around Machine Learning, NLP and web development. I 
 
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,ubuntu,&theme=dark)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackdrakes&layout=compact&theme=github_dark)]()
