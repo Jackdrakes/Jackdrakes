@@ -7,7 +7,7 @@ An AI/ML Engineer, dabbling around Machine Learning, NLP and web development.
 -->
 
 
-* 🌍  I'm based in Trichy, India.
+* 🌍  I'm based in India.
 * ✉️  You can contact me at [saran332003@gmail.com](mailto:saran332003@gmail.com)
 
 ---
