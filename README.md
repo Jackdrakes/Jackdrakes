@@ -21,13 +21,20 @@ An AI/ML Engineer, dabbling around Machine Learning, NLP and web development.
 [![My Skills](https://skillicons.dev/icons?i=git,github,ubuntu,&theme=dark)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackdrakes&layout=compact&theme=github_dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackdrakes&layout=compact&theme=github_dark&langs_count=8)]()
 
 
 ---
 
 
 [![An image of @jackdrakes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jackdrakes)](https://holopin.io/@jackdrakes)
+
+---
+
+<div align='center'>
+  <h3>🌟 Star to shine, fork to refine - let’s innovate together! ✨ </h3>
+</div>
+
 <!--
 **Jackdrakes/Jackdrakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
