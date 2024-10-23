@@ -2,9 +2,9 @@
 
 An AI/ML Engineer, dabbling around Machine Learning, NLP and web development.
 
-<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jackdrakes&label=Profile%20views&color=0e75b6&style=flat" alt="itsflash10" /> </p>
--->
+
 
 
 * 🌍  I'm based in India.
