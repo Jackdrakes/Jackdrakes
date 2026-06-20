@@ -1,9 +1,9 @@
 # Saran ( aka Jackdrakes)  
 **Software Engineer — Python • FastAPI • ML & Web Services | India**  
 
-🚀 Creator of **Marklens** — a developer-first live markdown preview experience.
+🚀 Creator of **MdLive** — a developer-first live markdown preview experience.
 
-🌐 **Beta:** [Try Marklens Beta](https://beta-marklens.vercel.app/)
+🌐 **Beta:** [Try MdLive Beta](https://beta-mdlive.vercel.app/)
 
 ✉️ saran332003@gmail.com | [LinkedIn](https://www.linkedin.com/in/jackdrakes)
 
